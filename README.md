@@ -1,1 +1,1 @@
-# sw_test
+# TPC-H test data generation
