@@ -6,10 +6,10 @@ How to Use(For Oracle case)
 
 1. create DBMS user account
 e.g.)
- 1. sqlplus "/as sysdba"
- 2. create user testuser identified by testuser;
- 3. grant dba to testuser;
- 4. exit;
+1. sqlplus "/as sysdba"
+2. create user testuser identified by testuser;
+3. grant dba to testuser;
+4. exit;
  
 2. execute dbgen file with option to tpch data creation
 e.g.)
