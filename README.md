@@ -1,4 +1,4 @@
-# TPC-H test data generation
+# TPC-H test data generation(Summary)
 
 How to Use(For Oracle case)
 
